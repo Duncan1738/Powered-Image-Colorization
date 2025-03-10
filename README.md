@@ -33,7 +33,7 @@ Output: Colorized Image
 🔄 Add a Web Interface
 📷 Batch Image Processing
 👥 Contributors
-Your Name - GitHub Profile
+Duncan Kibet - GitHub Profile
 📜 License
 This project is under the MIT License. Modify and enjoy! 🚀🎨
 
