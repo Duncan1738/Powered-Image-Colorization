@@ -44,10 +44,5 @@ Contributors
 
 ---
 
-## **🔥 Why This Project is Cool**
-- **AI + Computer Vision**
-- **Useful for restoring old black-and-white photos**
-- **Lightweight & works instantly**
 
-Would you like me to **add a web interface (Flask) for real-time colorization**? 🚀🔥
 
