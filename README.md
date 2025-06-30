@@ -7,7 +7,7 @@ A **Deep Learning-based image colorization tool** that converts **black-and-whit
 -  Converts **grayscale images** into **color**.
 -  Lightweight & Fast.
 
-## 🛠 Installation
+## Installation
 ```sh
 pip install numpy opencv-python argparse
 
