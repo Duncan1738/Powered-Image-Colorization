@@ -33,9 +33,7 @@ Output: Colorized Image
  Add a Web Interface
  Batch Image Processing
 Contributors
-Duncan Kibet - GitHub Profile
-📜 License
-This project is under the MIT License. Modify and enjoy! 🚀🎨
+ MIT License. Modify and enjoy! 
 
 ---
 
