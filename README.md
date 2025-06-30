@@ -8,7 +8,7 @@ A **Deep Learning-based image colorization tool** that converts **black-and-whit
 -  Lightweight & Fast.
 
 ## Installation
-```sh
+
 pip install numpy opencv-python argparse
 
 
