@@ -2,7 +2,7 @@
 
 A **Deep Learning-based image colorization tool** that converts **black-and-white photos into color** automatically! Powered by **OpenCV & Deep Learning**.
 
-## 🚀 Features
+##  Features
 - ✅ Uses a **pretrained Deep Learning model**.
 - 🎨 Converts **grayscale images** into **color**.
 - 🔥 Lightweight & Fast.
