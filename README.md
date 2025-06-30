@@ -23,7 +23,7 @@ python colorize.py path/to/your/image.jpg
 
 The colorized image will be saved as colorized.png.
 
-🏃‍♂️ Example Usage
+ Example Usage
 Input: Black & White Image
 
 Output: Colorized Image
