@@ -1,4 +1,4 @@
-# 🎨 AI-Powered Image Colorization
+#  AI-Powered Image Colorization
 
 A **Deep Learning-based image colorization tool** that converts **black-and-white photos into color** automatically! Powered by **OpenCV & Deep Learning**.
 
