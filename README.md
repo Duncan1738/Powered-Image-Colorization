@@ -31,7 +31,7 @@ Output: Colorized Image
  Future Enhancements
  Train on Custom Datasets
  Add a Web Interface
-📷 Batch Image Processing
+ Batch Image Processing
 👥 Contributors
 Duncan Kibet - GitHub Profile
 📜 License
