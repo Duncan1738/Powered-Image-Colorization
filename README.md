@@ -5,7 +5,7 @@ A **Deep Learning-based image colorization tool** that converts **black-and-whit
 ##  Features
 -  Uses a **pretrained Deep Learning model**.
 -  Converts **grayscale images** into **color**.
-- 🔥 Lightweight & Fast.
+-  Lightweight & Fast.
 
 ## 🛠 Installation
 ```sh
