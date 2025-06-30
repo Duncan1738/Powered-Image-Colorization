@@ -32,7 +32,7 @@ Output: Colorized Image
  Train on Custom Datasets
  Add a Web Interface
  Batch Image Processing
-👥 Contributors
+Contributors
 Duncan Kibet - GitHub Profile
 📜 License
 This project is under the MIT License. Modify and enjoy! 🚀🎨
