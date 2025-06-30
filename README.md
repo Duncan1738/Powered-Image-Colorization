@@ -13,9 +13,9 @@ pip install numpy opencv-python argparse
 
 
 Download the pretrained models:
-wget https://raw.githubusercontent.com/richzhang/colorization/master/colorization_deploy_v2.prototxt
-wget https://raw.githubusercontent.com/richzhang/colorization/master/colorization_release_v2.caffemodel
-wget https://raw.githubusercontent.com/richzhang/colorization/master/pts_in_hull.npy
+!wget https://raw.githubusercontent.com/richzhang/colorization/master/colorization_deploy_v2.prototxt
+!wget https://raw.githubusercontent.com/richzhang/colorization/master/colorization_release_v2.caffemodel
+!wget https://raw.githubusercontent.com/richzhang/colorization/master/pts_in_hull.npy
 
  How to Use
 
