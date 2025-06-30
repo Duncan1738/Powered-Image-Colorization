@@ -11,12 +11,12 @@ A **Deep Learning-based image colorization tool** that converts **black-and-whit
 
 pip install numpy opencv-python argparse
 
-
+---
 Download the pretrained models:
-!wget https://raw.githubusercontent.com/richzhang/colorization/master/colorization_deploy_v2.prototxt
-!wget https://raw.githubusercontent.com/richzhang/colorization/master/colorization_release_v2.caffemodel
-!wget https://raw.githubusercontent.com/richzhang/colorization/master/pts_in_hull.npy
-
+1. !wget https://raw.githubusercontent.com/richzhang/colorization/master/colorization_deploy_v2.prototxt
+2. !wget https://raw.githubusercontent.com/richzhang/colorization/master/colorization_release_v2.caffemodel
+3. !wget https://raw.githubusercontent.com/richzhang/colorization/master/pts_in_hull.npy
+---
  How to Use
 
 python colorize.py path/to/your/image.jpg
