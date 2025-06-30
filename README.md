@@ -17,7 +17,7 @@ wget https://raw.githubusercontent.com/richzhang/colorization/master/colorizatio
 wget https://raw.githubusercontent.com/richzhang/colorization/master/colorization_release_v2.caffemodel
 wget https://raw.githubusercontent.com/richzhang/colorization/master/pts_in_hull.npy
 
-🎮 How to Use
+ How to Use
 
 python colorize.py path/to/your/image.jpg
 
@@ -28,8 +28,8 @@ Input: Black & White Image
 
 Output: Colorized Image
 
-📌 Future Enhancements
-🧠 Train on Custom Datasets
+ Future Enhancements
+ Train on Custom Datasets
 🔄 Add a Web Interface
 📷 Batch Image Processing
 👥 Contributors
