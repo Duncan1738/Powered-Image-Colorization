@@ -37,7 +37,7 @@ Contributors
 
 ---
 
-## **🎨 How It Works**
+## ** How It Works**
 1. **Loads a grayscale image** 📷.
 2. **Uses OpenCV's pre-trained model** to generate **color information** 🎨.
 3. **Outputs a colorized version** of the image.
